@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "301627942747",
+    "project_id": "quan-ly-du-an-phim",
+    "storage_bucket": "quan-ly-du-an-phim.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301627942747:android:d64996a78d1c3a5186dc7e",
+        "android_client_info": {
+          "package_name": "com.thuong.phim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOQRvB67nU1TUKMpFFFmuwHwExHIJzJr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
